@@ -7,5 +7,7 @@ public class DemoOne {
 		
 		
 		System.out.println("Team 3");
+		
+		System.out.println("will be in another team today");
 	}
 }
